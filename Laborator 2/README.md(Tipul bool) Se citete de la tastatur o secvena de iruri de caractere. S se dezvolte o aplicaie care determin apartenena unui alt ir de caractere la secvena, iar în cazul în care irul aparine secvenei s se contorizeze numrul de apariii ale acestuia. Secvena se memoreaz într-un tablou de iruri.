@@ -1,0 +1,4 @@
+(Tipul bool) Se citete de la tastatur o secvena de iruri de caractere. S se dezvolte o
+aplicaie care determin apartenena unui alt ir de caractere la secvena, iar în cazul în
+care irul aparine secvenei s se contorizeze numrul de apariii ale acestuia. Secvena
+se memoreaz într-un tablou de iruri.
