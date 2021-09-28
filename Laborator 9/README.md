@@ -6,5 +6,4 @@ Aplicatia trebuie sa permita urmatoarele operatii:
 - restaurarea matricilor,
 - salvarea matricilor,
 - operatii elementare cu matrici (adunare, scadere, inmultire, ridicare la putere). 
--
 Se va folosi o clasa template.
